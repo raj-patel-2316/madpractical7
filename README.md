@@ -40,7 +40,3 @@ A simple Android application that demonstrates **SQLite database operations** an
 
 
 
-
----
-
-## 🧱 Project Structure
